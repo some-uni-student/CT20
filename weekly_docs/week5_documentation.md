@@ -17,7 +17,9 @@ I don't like word requirements in writing assignments. I don't like saying more 
 That cutscene I was talking about was finished some ᴛime last week. It looked.. decent. I think. My mod playtesters have been struggling to pull off the move that triggers the cutscene, but that's intended; it's meant to be a last resort to instakill opponents.
 
 I've went and made some designs for a new character in a small game I'm making. Still not sure what to name them though. (Yes, "them". Canonic enbie.)
-<img width="400" height="558" alt="image" src="https://github.com/user-attachments/assets/9aade77a-6887-4512-95e8-a1cf33e932d8" />
+
+<img width="200" height="279" alt="image" src="https://github.com/user-attachments/assets/9aade77a-6887-4512-95e8-a1cf33e932d8" />
 
 I also may or may not have started something by accident when I absentmindedly doodled them a few weeks ago.
-<img width="4080" height="3060" alt="image" src="https://github.com/user-attachments/assets/3b53fcbb-a026-4073-8793-a67b8a9c4b06" />
+
+<img width="408" height="306" alt="image" src="https://github.com/user-attachments/assets/3b53fcbb-a026-4073-8793-a67b8a9c4b06" />
