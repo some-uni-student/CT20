@@ -13,6 +13,8 @@ let text_finished = true;
 let bg_tick = []; // Tickable objects
 let fg_tick = [];
 
+let started = false; // Hotfix to fix soundless problems
+
 function setup()
 {
   // 4:3 my beloved
@@ -489,8 +491,24 @@ function main_loop()
   tick_fg_objects();
 }
 
+function mousePressed()
+{
+  started = true;
+}
+
 function draw()
 {
-  clear();
-  main_loop();
+  if (!started)
+  {
+    fill("#000000ff");
+    rect(0,0,width,height);
+    fill("#AA0000FF");
+    textAlign(CENTER);
+    text("Click to Deathe Sentence",width / 2, height / 2);
+  }
+  else
+  {
+    clear();
+    main_loop();
+  }
 }
