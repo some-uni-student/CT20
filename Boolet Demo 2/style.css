@@ -1,0 +1,12 @@
+html, body {
+  background: #57516fff;
+  margin: 2;
+  padding: 2;
+}
+p {
+  color: #aea2de;
+  font-family: monospace;
+}
+canvas {
+  display: block;
+}
